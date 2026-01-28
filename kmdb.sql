@@ -145,7 +145,7 @@ INSERT INTO studios (id, name) VALUES
 (1, 'Warner Bros.');
 
 INSERT INTO agents (id, name) VALUES
-(1, 'Agent Smith');
+(1, 'Agent Uslind Palokaj');
 
 INSERT INTO movies (id, title, year_released, mpaa_rating, studio_id) VALUES
 (1, 'Batman Begins', 2005, 'PG-13', 1),
